@@ -15,3 +15,6 @@ This project is created using vite.
 
 2. To start this application -
    Command - npm run dev
+
+Git URL -
+https://github.com/saurabhmane111/Assignment_Kutumb.git
