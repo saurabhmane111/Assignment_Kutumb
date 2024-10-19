@@ -19,5 +19,5 @@ This project is created using vite.
 Git URL -
 https://github.com/saurabhmane111/Assignment_Kutumb.git
 
-Nwtlify Deployement Link -
+Netlify Deployement Link -
 https://quotesappassignment.netlify.app
